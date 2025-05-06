@@ -9,7 +9,7 @@ const posts: PostType[] = [
   {
     id: 1,
     author: {
-      avatarUrl: "https:/github.com/Mauricio-Eduardo.png",
+      avatarUrl: "https://github.com/Mauricio-Eduardo.png",
       name: "Mauricio Eduardo",
       role: "Developer",
     },
@@ -28,7 +28,7 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl: "https:/github.com/diego3g.png",
+      avatarUrl: "https://github.com/diego3g.png",
       name: "Fulana da Silva",
       role: "CEO",
     },
